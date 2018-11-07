@@ -3,7 +3,7 @@ package iface;
 import java.util.Arrays;
 import java.util.List;
 
-public class DefaultImplementation {
+public class B_DefaultImplementation {
 
   public static void main(String[] args) {
     List<String> cities = Arrays.asList("Paris", "London", "Tokyo", "Talinn");
